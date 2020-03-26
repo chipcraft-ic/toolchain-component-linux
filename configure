@@ -1,0 +1,4 @@
+#! /usr/bin/env sh
+
+echo "to configure the kernel run make menuconfig"
+
